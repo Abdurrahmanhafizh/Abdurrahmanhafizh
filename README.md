@@ -30,12 +30,15 @@ Here are some ideas to get you started:
 
 
 
-##### Github Statics
+##### Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Abdurrahman Hafizh GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Abdurrahmanhafizh&show_icons=true&theme=graywhite)
+
 ##### Connect  With Me
 
 ![www.linkedin.com/in/muhammad-abdurrahman-hafizh-s-kom-363b46291](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.instagram.com/mabdurrahmanhafizh/?utm_source=ig_web_button_share_sheet](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/Abdurrahmanhafizh/Abdurrahmanhafizh/snake-output/snake.svg" alt="Snake animation" />
 
+###
