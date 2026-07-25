@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Laravel 13** and **AI Agents**
 
 #### Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,sqlite,postman,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,sqlite,postman,&perline=4)](https://skillicons.dev)
 
 ##### Tools
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 ![www.linkedin.com/in/muhammad-abdurrahman-hafizh-s-kom-363b46291](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.instagram.com/mabdurrahmanhafizh/?utm_source=ig_web_button_share_sheet](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+
+<!-- Game Ular -->
 <img data-importer="snake" src="https://raw.githubusercontent.com/Abdurrahmanhafizh/Abdurrahmanhafizh/snake-output/snake.svg" alt="Snake animation" />
 
 ###
