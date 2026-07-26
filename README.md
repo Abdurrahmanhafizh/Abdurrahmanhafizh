@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Web rent**
+- 🔭 I’m currently working on **decision support system**
 - 🌱 I’m currently learning **Laravel 13** and **AI Agents**
 
 #### Skills 
