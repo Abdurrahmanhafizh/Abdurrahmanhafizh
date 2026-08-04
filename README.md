@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Laravel 13** and **AI Agents**
 
 #### Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,sqlite,postman,&perline=9&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,sqlite,postman,&perline=10&theme=light)](https://skillicons.dev)
 
 ##### Tools
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
